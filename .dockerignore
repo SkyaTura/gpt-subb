@@ -1,0 +1,6 @@
+/.history
+/.vscode
+/tmp
+/dist
+node_modules
+.env
