@@ -1,6 +1,6 @@
 # GPT Subb
 
-> `gpt-subb` is a command-line tool to translate and convert subtitles using OpenAI's Chat-GPT language model
+> [gpt-subb](https://www.npmjs.com/package/gpt-subb) is a command-line tool to translate and convert subtitles using OpenAI's Chat-GPT language model
 
 ## First things first
 

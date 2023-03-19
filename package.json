@@ -1,6 +1,6 @@
 {
   "name": "gpt-subb",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "gpt-subb is a command-line tool to translate and convert subtitles using OpenAI's Chat-GPT language model",
   "main": "dist/index.js",
   "bin": {
@@ -26,6 +26,11 @@
   ],
   "author": "Skya Tura <antonio@skyatura.com.br",
   "license": "GLP-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SkyaTura/gpt-subb"
+  },
+  "homepage": "https://github.com/SkyaTura/gpt-subb#gpt-subb",
   "devDependencies": {
     "ts-node": "^10.9.1",
     "typescript": "^4.9.5"
