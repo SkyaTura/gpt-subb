@@ -1,16 +1,30 @@
 {
   "name": "gpt-subb",
   "version": "1.0.0",
-  "description": "",
+  "description": "gpt-subb is a command-line tool to translate and convert subtitles using OpenAI's Chat-GPT language model",
   "main": "dist/index.js",
+  "bin": {
+    "gpt-subb": "dist/index.js"
+  },
   "scripts": {
     "dev": "ts-node src/index.ts",
     "build": "tsc",
     "start": "node dist/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "chat-gpt",
+    "gpt",
+    "gpt-3",
+    "openai",
+    "subtitle",
+    "subtitles",
+    "subtitles-translator",
+    "subtitles-translator-gpt",
+    "subtitles-translator-gpt-3",
+    "subtitles-translator-openai"
+  ],
+  "author": "Skya Tura <antonio@skyatura.com.br",
   "license": "ISC",
   "devDependencies": {
     "ts-node": "^10.9.1",

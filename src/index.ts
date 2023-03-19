@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import { promises as fs } from 'node:fs';
 import * as Path from 'node:path'
 import { Command, Option } from '@commander-js/extra-typings';
